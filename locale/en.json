@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Emotion Feedback",
+    "description": "Judges the working model's own emotion each turn and silently re-injects it before the next turn."
+  }
+}

@@ -1,0 +1,5 @@
+# 情绪回注插件（emotion-feedback）的 profile 补丁。
+# 行 id 在整个 profile 配置里必须唯一。
+- insert:
+    - id: emotion-feedback
+      name: 'dsh-emotion-feedback'

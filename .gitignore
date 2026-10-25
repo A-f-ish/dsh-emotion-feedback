@@ -1,0 +1,12 @@
+# local verification junction (points at the development checkout's node_modules)
+node_modules/
+# npm / pnpm artifacts
+*.tgz
+npm-debug.log*
+pnpm-debug.log*
+.npm-pack-cache/
+# pack output
+dist/
+# editor / OS noise
+.DS_Store
+Thumbs.db

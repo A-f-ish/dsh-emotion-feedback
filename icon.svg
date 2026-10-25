@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Emotion Feedback">
+  <defs>
+    <linearGradient id="ef" x1="8" y1="6" x2="56" y2="58" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3fa7c4"/>
+      <stop offset=".55" stop-color="#4a7fd4"/>
+      <stop offset="1" stop-color="#8a6fbf"/>
+    </linearGradient>
+  </defs>
+  <rect x="4" y="4" width="56" height="56" rx="16" fill="url(#ef)"/>
+  <path d="M13 36h6l4-13 6 24 5-17 4 6h13" fill="none" stroke="#ffffff" stroke-width="3.4"
+        stroke-linecap="round" stroke-linejoin="round" opacity=".96"/>
+  <circle cx="46.5" cy="19.5" r="3.6" fill="#ffffff" opacity=".92"/>
+</svg>
